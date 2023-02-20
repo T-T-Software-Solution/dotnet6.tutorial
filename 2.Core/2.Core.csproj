@@ -8,7 +8,6 @@
     <TargetFramework>net6.0</TargetFramework>
     <RootNamespace>_2.Core</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
   </PropertyGroup>
 
 </Project>
