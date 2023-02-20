@@ -1,6 +1,6 @@
 using _1.Domain;
 
-namespace Core;
+namespace _2.Core;
 
 public interface IProvinceRepository : IBaseRepository<Province>
 {
