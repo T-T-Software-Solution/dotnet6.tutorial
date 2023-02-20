@@ -1,4 +1,4 @@
-namespace _1.Core;
+namespace _2.Core;
 
 public interface IEmailProvider
 {
