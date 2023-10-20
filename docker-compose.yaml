@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  dotnetclean:
+    build: .
+    container_name: 'dotnetclean'
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Host=host.docker.internal;Username=postgres;Password=postgres;Database=postgres
+    ports:
+      - '8000:80'
