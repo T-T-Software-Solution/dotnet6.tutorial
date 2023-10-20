@@ -15,7 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\2.Core\2.Core.csproj" />
     <ProjectReference Include="..\3.Infra\3.Infra.csproj" />
   </ItemGroup>
 
